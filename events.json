@@ -1,0 +1,18 @@
+{
+  "dkp1": {
+    "poolId": 0,
+    "events": [
+      {
+        "id": 0
+      }
+    ]
+  },
+  "dkp2": {
+    "poolId": 0,
+    "events": [
+      {
+        "id": 0
+      }
+    ]
+  }
+}
