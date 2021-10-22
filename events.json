@@ -23,6 +23,10 @@
       {
         "id": 0,
         "name": "Twitter Campaign DAOSquarebot address binding"
+      },
+      {
+        "id": 1,
+        "name": "DAOSquarebot address binding"
       }
     ]
   }
