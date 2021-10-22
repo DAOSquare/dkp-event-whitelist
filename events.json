@@ -3,7 +3,8 @@
     "poolId": 0,
     "events": [
       {
-        "id": 0
+        "id": 0,
+        "name" : "Test event"
       }
     ]
   },
@@ -11,7 +12,17 @@
     "poolId": 1,
     "events": [
       {
-        "id": 0
+        "id": 0,
+        "name": "Test event"
+      }
+    ]
+  },
+  "dkp3": {
+    "poolId": 2,
+    "events": [
+      {
+        "id": 0,
+        "name": "Twitter Campaign DAOSquarebot address binding"
       }
     ]
   }
