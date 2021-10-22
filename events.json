@@ -4,11 +4,11 @@
     "events": [
       {
         "id": 0,
-        "name": "Twitter Campaign"
+        "name": "DAOSquarebot address binding"
       },
       {
         "id": 1,
-        "name": "DAOSquarebot address binding"
+        "name": "Twitter Campaign"
       }
     ]
   }
