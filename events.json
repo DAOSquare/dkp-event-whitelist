@@ -1,4 +1,13 @@
 {
+  "dkp1": {
+    "poolId": 0,
+    "events": [
+      {
+        "id": 0,
+        "name": "donate in DAOHaus"
+      }
+    ]
+  },
   "dkp3": {
     "poolId": 2,
     "events": [
